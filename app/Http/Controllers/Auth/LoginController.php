@@ -51,7 +51,7 @@ class LoginController extends Controller
             $response=[
                 'status'=>true,
                 'message'=>'Successfully logged in...',
-                'return_url'=>'/admin/dashboard',
+                'return_url'=>'admin/dashboard',
             ];
         }
         else{
