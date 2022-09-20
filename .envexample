@@ -1,8 +1,8 @@
-APP_NAME=Student
+APP_NAME=Company
 APP_ENV=local
 APP_KEY=base64:uHt2OlutLgBIDex4/Ubwq6gO4MT05ku4V0ilTgHMJL4=
 APP_DEBUG=true
-APP_URL=http://fingent.com/
+APP_URL=http://company.com/
 
 LOG_CHANNEL=stack
 
