@@ -1,0 +1,37 @@
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    color: white !important;
+    border: 1px solid #fff  !important;
+    background-color: #585858  !important;
+    background: linear-gradient(to bottom, #ffffff 0%, #fff 100%)  !important;
+}
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #0052cc;
+    border-color: #0052cc;
+    border-radius: 100px !important;
+}
+div.dataTables_wrapper div.dataTables_length select {
+    width: 94px !important;
+    height: 46px;
+    display: inline-block;
+}
+table#js-news-url-table {
+    line-height: 35px;
+}
+.page-item .page-link:hover {
+    z-index: 1;
+    color: #fff;
+    background-color: #0052cc;
+    border-color: #0052cc;
+    border-radius: 100px !important;
+}
+span.error {
+    color: red;
+}
+span.select2-selection.select2-selection--single {
+    height: 38px;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+    padding: 0 !important;
+}
